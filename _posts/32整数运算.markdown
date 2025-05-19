@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "RV32I 整数运算指令"
+date:   2024-02-11 00:49:03 +0300
+excerpt: "A ton of text to test readability with image feature."
+tags: [sample post, readability, test, image, feature]
+categories: jekyll update
+---
+
+## reg-imm:
+* [ADDI,SLTI,ANDI,ORI,XORI](../PDFs/riscv-spec.pdf#page=38)
